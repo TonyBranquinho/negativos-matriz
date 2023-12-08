@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\bin\Debug\Soma negativos.exe.config
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\bin\Debug\Soma negativos.exe
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\bin\Debug\Soma negativos.pdb
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\obj\Debug\Soma negativos.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\obj\Debug\Soma negativos.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\obj\Debug\Soma negativos.exe
+C:\temp\ws-vs2019\Soma negativos\Soma negativos\obj\Debug\Soma negativos.pdb
